@@ -1,5 +1,7 @@
 # StarZ Discord-Bot
-StarZ is a multi-command &amp; helpful discord bot currently in development
+StarZ is a multi-command &amp; helpful discord bot currently in development.
+
+He will replace my old discord bot Luna
 
 **Add StarZ for your server!**
 
